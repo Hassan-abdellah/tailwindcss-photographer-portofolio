@@ -1,4 +1,4 @@
-#TailwindCSS Portofolio For Photographer
+# TailwindCSS Portofolio For Photographer
 
 [Live Demo](https://kevinphotographer.netlify.app/)
 
